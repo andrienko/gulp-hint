@@ -5,6 +5,10 @@
   "main": "index.js",
   "author": "ilia@andrienko.org",
   "license": "MIT",
+  "repository": {
+    "type" : "git",
+    "url" : "https://github.com/andrienko/gulp-hint.git"
+  },
   "dependencies": {
     "cli-table": "^0.3.1",
     "extend": "^3.0.0"
